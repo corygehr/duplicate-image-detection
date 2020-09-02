@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DuplicateImageDetection": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\Users\\coryg\\Downloads\\WDYM ETJ Photos\" 25"
+    }
+  }
+}
